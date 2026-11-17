@@ -1,0 +1,5 @@
+# Dev 2 owns these (installed only with WITH_ML=true; sentence-transformers pulls PyTorch). Please pin.
+qdrant-client>=1.8.0
+fastembed>=0.2.0
+sentence-transformers>=2.6.0
+google-genai>=0.1.1

@@ -1,0 +1,14 @@
+.git
+.github
+.env
+.venv
+__pycache__
+*.pyc
+node_modules
+mobile
+data
+benchmarks
+docs
+tests
+PLAN.md
+README.md
