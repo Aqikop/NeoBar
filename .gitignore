@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Secrets
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Docker volumes & local data storage
+qdrant_data/
+redis_data/
+*.log
+
+# Reference repository (do not commit reference repo)
+ref_repo/
+
+# Node.js / Mobile Expo
+node_modules/
+.expo/
+dist/
+web-build/
+
+# OS metadata
+.DS_Store
+Thumbs.db
