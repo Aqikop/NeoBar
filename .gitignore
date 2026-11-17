@@ -15,9 +15,6 @@ qdrant_data/
 redis_data/
 *.log
 
-# Reference repository (do not commit reference repo)
-ref_repo/
-
 # Node.js / Mobile Expo
 node_modules/
 .expo/
